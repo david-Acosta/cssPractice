@@ -1,1 +1,35 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Box exercises</title>
+</head>
+<body>
+
+  
+  <h1>CSS Box Model</h1>
+  
+  <div class="box">
+    <p>
+      fhasjkhasjkfhshjkfhjsa<br>
+      kfhsdjahjkfsahfsahjkfaskhj
+    </p>
+    <p>
+      fhasjkhasjkfhshjkfhjsa<br>
+      kfhsdjahjkfsahfsahjkfaskhj
+    </p>
+    
+   
+  </div>
+  <div class="box1">
+    <p>
+      fhasjkhasjkfhshjkfhjsa<br>
+      kfhsdjahjkfsahfsahjkfaskhj
+    </p>
+     
+  </div>
+  
+</body>
+</html>
