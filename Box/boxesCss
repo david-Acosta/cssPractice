@@ -1,0 +1,48 @@
+body{
+  background-color: #a7dbe3;
+  color: white;
+  font-size: 21px
+}
+
+h1{
+  font-size: 70PX;
+  color: #3747b3;
+}
+
+p{
+  color: #2f4c5c;
+}
+
+/* the 3 part to box model
+Margin: empty space around my element
+border: around my element
+padding: empty space with background around my element
+all of these add on top of width and height
+
+*/
+.box{
+  background: pink;
+  width: 300px;
+  
+  margin-top: 100px;
+  
+  border-width: 5px;
+  border-color: red;
+  border-style: solid;
+  
+  border-right-width: 10px;
+  border-right-style: solid;
+  border-right-color: green;
+  
+}
+.box1{
+  background: #3747;
+  width: 250px;
+    
+  margin: 100px;
+  border: 5px solid red;
+  border-left: 5px solid green;
+  padding: 20px 50px 30px 25px;
+  /* top right bottom left */
+  /* two inputs would be top and bottom*/
+}
