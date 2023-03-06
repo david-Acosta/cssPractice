@@ -4,6 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
+  <link rel="boxesCss.css" style="css">
   <title>Box exercises</title>
 </head>
 <body>
